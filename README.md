@@ -7,6 +7,3 @@ docker-compose up --build
 navigate to
 localhost:3000 --> for frontend
 ```
-## License
-
-MIT
