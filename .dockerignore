@@ -1,0 +1,4 @@
+mongodb-data
+.env
+.gitignore
+.dockerignore
