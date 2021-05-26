@@ -1,5 +1,5 @@
 FROM node:alpine as builder
-
+LABEL maintainer="pt@puskartrital.com"
 LABEL version="1.0"
 
 LABEL description="React Frontend for the Server API"

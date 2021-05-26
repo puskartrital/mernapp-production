@@ -1,5 +1,5 @@
 FROM node:alpine
-
+LABEL maintainer="pt@puskartrital.com"
 LABEL version="1.0"
 LABEL description="Production image for the Server MERN API"
 
