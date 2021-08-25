@@ -7,3 +7,5 @@ docker-compose up --build
 navigate to
 localhost:3000 --> for frontend
 ```
+
+* Note: Use it on your own risk!!!
